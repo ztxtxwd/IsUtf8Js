@@ -1,6 +1,5 @@
-# IsUtf8Js
+# 判断中文文本是否为utf8编码类型的JavaScript实现
 
-@[TOC](判断中文文本是否为utf8编码类型的JavaScript实现)
 
 
 ## 原理
